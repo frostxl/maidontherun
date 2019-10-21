@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="ce688920-47b2-482a-8c87-0e464b56c42b" name="frostxl">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
